@@ -1,0 +1,53 @@
+{
+  "personal_info": {
+    "name": "Jordan Ruiz",
+    "email": "jordanruiz61@gmail.com",
+    "phone": "+1-994-2876",
+    "location": ""
+  },
+  "work_experience": [
+    {
+      "company": "ABC Inc.",
+      "title": "Data Scientist",
+      "duration": "2019-2023",
+      "responsibilities": [
+        "Built predictive models that enhanced decision-making processes, reducing operational costs by 25%."
+      ]
+    },
+    {
+      "company": "DEF Ltd.",
+      "title": "Product Manager",
+      "duration": "2017-2021",
+      "responsibilities": [
+        "Led cross-functional teams to develop innovative solutions, increasing product adoption by 40%."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Business Administration",
+      "institution": "",
+      "graduation_year": "2019"
+    },
+    {
+      "degree": "Master of Science in Data Science",
+      "institution": "",
+      "graduation_year": "2021"
+    }
+  ],
+  "skills": [
+    "Cloud Computing - Expert in AWS, Azure, and GCP; implemented scalable cloud architectures for enterprise applications."
+  ],
+  "TechStack": [
+    "Metasploit",
+    "Wireshark",
+    "Burp Suite",
+    "Kali Linux"
+  ],
+  "Achievements": [
+    "Developed an AI chatbot - Built a chatbot that reduced customer support tickets by 40%, enhancing user experience and efficiency."
+  ],
+  "Certifications": [
+    "AWS Certified Solutions Architect - Validated expertise in designing and deploying scalable AWS solutions, optimizing performance and security."
+  ]
+}
