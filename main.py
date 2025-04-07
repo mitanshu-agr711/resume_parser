@@ -34,6 +34,7 @@ app.add_middleware(
     allow_credentials=True,
     allow_methods=["*"],  
     allow_headers=["*"],  
+)
 
 @app.post("/parse-resume/")
 async def parse_resume(file: UploadFile = File(...)):
